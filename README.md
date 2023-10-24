@@ -1,5 +1,5 @@
 # Backend I - Digital House
-## 🦷 Clinica odontologica - Proyecto Integrador
+## 🦷 Clínica odontológica - Proyecto Integrador
 Desarrollo del proyecto integrador de la materia Backend del curso de [Digital House](https://www.digitalhouse.com/ar/productos/programacion/certified-tech-developer): una aplicación de gestión de turnos para clínicas odontológicas. Esta aplicación permite a los centros odontológicos registrar y administrar las citas en línea de manera sencilla.
 
 ## 🔵 Tecnologías:
